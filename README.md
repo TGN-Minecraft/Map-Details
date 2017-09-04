@@ -2,6 +2,10 @@
 Lists our maps &amp; the rotations
 These maps have been made by authors who will be credited shortly.
 
+Want to add your map to our rotations? Visit our forums and submit your map today!
+Want to create your own rotations? Submit it in ISSUES.
+Any problems with maps? Submit it in Issues.
+
 ## Rotation 1
 1. Stone II by OldManTigerMask
 2. Alpine Mining by [Author Listing Soon]
@@ -10,7 +14,7 @@ These maps have been made by authors who will be credited shortly.
 5. Golden Drought IV by [Author Listing Soon]
 6. Balloons DTM (Halloween) by [Author Listing Soon]
 7. Tasty Fight by Crimson_Aught
-_8. Metro by [Author Listing Soon]
+8. Metro by [Author Listing Soon]
 
 ## Rotation 2
 1. Metro by [Author Listing Soon]

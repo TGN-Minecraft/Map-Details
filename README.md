@@ -30,16 +30,29 @@ Any problems with maps? Submit it in Issues.
 
 ## Map List
 1 - Stone II by OldManTigerMask
+
 2 - Alpine Mining by [Author Listing Soon]
+
 3 - Glacial Impact II by [Author Listing Soon]
+
 4 - Interitus TE by [Author Listing Soon]
+
 5 - Golden Drought IV by [Author Listing Soon]
+
 6 - Balloons DTM (Halloween) by [Author Listing Soon]
+
 7 - Metro by [Author Listing Soon]
+
 8 - Plains I by OldManTigerMask
+
 9 - Snowy Wars by [Author Listing Soon]
+
 10 - Jyngli by [Author Listing Soon]
+
 11 - Mystic Point by [Author Listing Soon]
+
 12 - Battle Cry TDM by [Author Listing Soon]
+
 13 - Wintery Cabin by [Author Listing Soon]
+
 14 - Tasty Fight by Crimson_Aught
